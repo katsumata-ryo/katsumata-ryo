@@ -1,4 +1,16 @@
-### Hi there 👋
+### me
+
+ウェブアプリケーションプログラマです。
+
+### history
+
+netforest,inc(営業・総務・運用サポート・) -> Blabo,inc（WEBアプリケーションプログラマ） -> hey,inc(旧ブラケット | WEBアプリケーションプログラマ) 
+
+### info
+
+twitter: [@katsumata_ryo](https://twitter.com/katsumata_ryo)<br>
+blog: [note i/o](https://note.katsumataryo.com/)
+
 
 <!--
 **katsumata-ryo/katsumata-ryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
